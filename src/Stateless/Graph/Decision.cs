@@ -7,6 +7,7 @@ namespace Stateless.Graph
 {
     /// <summary>
     /// Used to keep track of the decision point of a dynamic transition
+    /// K:git. 
     /// </summary>
     class Decision : State
     {
